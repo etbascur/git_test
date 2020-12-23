@@ -1,0 +1,1 @@
+This is my first Odin project! Yaaay! Enthusiasm! Fireworks! Happiness!
